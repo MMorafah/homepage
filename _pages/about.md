@@ -2,7 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p> <font size="2"> <a href=https://www.ece.ucsd.edu/>
+                              Electrical and Computer Engineering</a> <br/>
+                              <a href=https://ucsd.edu/> University of California San Diego
+                              </a>  <br/>
+                              <a href=https://www.google.com/maps/place/UC+San+Diego+Jacobs+School+of+Engineering/@32.8815397,-117.2376722,17z/data=!3m1!4b1!4m5!3m4!1s0x80dc06c3689b4f99:0xdf55f97f07f34d4f!8m2!3d32.8815352!4d-117.2354835> 9500 Gilman Dr, La Jolla, CA 92093
+                              </a> </font> </p> 
 
 profile:
   align: right
@@ -17,8 +22,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second year PhD Student at University of California San Diego, luckly being advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in Machine Learning and Optimization. My current research focus is on **Federated Learning**. Here are several federated learning themes that I am currently working on: 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Statistical Heterogeneity (Non-I.I.D)
+- Personalization
+- Communication Effeciency 
+- Optimization
+
+I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
+
+I also enjoyed working as machine learning research intern in [Tesla Autopilot](https://www.tesla.com/autopilot).  
+
+
