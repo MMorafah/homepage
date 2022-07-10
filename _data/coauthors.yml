@@ -1,18 +1,11 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Lin":
+  - firstname: ["Bill", "Lin", "Bill Lin"]
+    url: http://cwcserv.ucsd.edu/~billlin/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kungurtsev":
+  - firstname: ["Vyacheslav", "Kungurtsev", "Vyacheslav Kungurtsev"]
+    url: https://scholar.google.cz/citations?user=Dkp_oGsAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Scutari":
+  - firstname: ["Gesualdo", "Scutari", "Gesualdo Scutari"]
+    url: https://scholar.google.com/citations?hl=en&user=CKsVJugAAAAJ&view_op=list_works&sortby=pubdate

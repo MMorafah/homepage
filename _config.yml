@@ -6,7 +6,7 @@ title: Mahdi Morafah # the website title (if blank, full name will be used inste
 first_name: Mahdi
 middle_name:
 last_name: Morafah
-email: morafah.mahdi@gmail.com
+email: mmorafah@eng.ucsd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Mahdi Morafah Personal Website
 footer_text: >
@@ -44,8 +44,8 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -70,7 +70,6 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note:
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
