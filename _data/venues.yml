@@ -1,0 +1,31 @@
+ICML:
+  url: http://www.icml.cc/
+  color: 10100e
+
+ICLR:
+  url: https://iclr.cc/
+  color: ced42a
+
+arXiv:
+  url: https://arxiv.org
+  color: ae1b1a
+
+NeurIPS:
+  url: http://www.nips.cc/
+  color: 69438c
+
+CVPR:
+  url: https://openaccess.thecvf.com/
+  color: 1d5d8d
+
+ICCV:
+  url: https://openaccess.thecvf.com/
+  color: 1d5d8d
+
+AAAI:
+  url: https://aaai.org/Conferences/AAAI/aaai.php
+  color: 0076df
+
+ICDCSW:
+  url: https://www.icdcs.org/
+  color: 8f911d

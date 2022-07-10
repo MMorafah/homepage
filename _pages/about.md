@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p> <font size="2"> Machine Learning Researcher | Federated Learning Enthusiast | Former Tesla Autopilot ML Research Intern </font> </p>
+subtitle: <p class="text-success"> <font size="2"> Machine Learning Researcher <br/> 
+                              Federated Learning Enthusiast <br/> 
+                              Former Tesla Autopilot ML Research Intern </font> </p>
 
 # <p> <font size="2"> <a href=https://www.ece.ucsd.edu/>
 #                               Electrical and Computer Engineering</a> <br/>
@@ -13,7 +15,7 @@ subtitle: <p> <font size="2"> Machine Learning Researcher | Federated Learning E
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mahdi_photo.jpg
   address: >
     <p>Department of Electrical and Computer Engineering</p>
     <p>University of California San Diego</p>

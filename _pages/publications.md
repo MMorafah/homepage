@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: Pre-prints, conference, journal, and workshop papers.
 years: [2021]
 nav: true
 nav_order: 1

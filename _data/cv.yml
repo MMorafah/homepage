@@ -61,6 +61,14 @@
       - ECE 101 (Linear Systems Fundamentals) - Winter 2020
       - ECE 161A (Introduction to Discrete-Time Signal Processing) - Fall 2019
 
+- title: Skills 
+  type: list
+  contents:
+    - <strong>Programming Languages:</strong> Python, C/C++, HTML, MATLAB
+    - <strong>Deep Learning Libraries:</strong> PyTorch, TensorFlow
+    - <strong>Cloud Computing:</strong> AWS, Docker, Kubernetes
+    - <strong>Other:</strong> Git, Bash, Vim, Nano
+
 - title: Honors and Awards
   type: time_table
   contents:

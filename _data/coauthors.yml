@@ -1,11 +1,11 @@
-"Lin":
-  - firstname: ["Bill", "Lin", "Bill Lin"]
-    url: http://cwcserv.ucsd.edu/~billlin/
+# "Lin":
+#   - firstname: ["Bill", "Lin", "Bill Lin"]
+#     url: http://cwcserv.ucsd.edu/~billlin/
 
-"Kungurtsev":
-  - firstname: ["Vyacheslav", "Kungurtsev", "Vyacheslav Kungurtsev"]
-    url: https://scholar.google.cz/citations?user=Dkp_oGsAAAAJ&hl=en
+# "Kungurtsev":
+#   - firstname: ["Vyacheslav", "Kungurtsev", "Vyacheslav Kungurtsev"]
+#     url: https://scholar.google.cz/citations?user=Dkp_oGsAAAAJ&hl=en
 
-"Scutari":
-  - firstname: ["Gesualdo", "Scutari", "Gesualdo Scutari"]
-    url: https://scholar.google.com/citations?hl=en&user=CKsVJugAAAAJ&view_op=list_works&sortby=pubdate
+# "Scutari":
+#   - firstname: ["Gesualdo", "Scutari", "Gesualdo Scutari"]
+#     url: https://scholar.google.com/citations?hl=en&user=CKsVJugAAAAJ&view_op=list_works&sortby=pubdate
