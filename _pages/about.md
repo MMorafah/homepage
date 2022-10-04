@@ -39,6 +39,6 @@ I am broadly interested in Machine Learning and Optimization. My current researc
 
 I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
 
-I also enjoyed working as machine learning research intern in [Tesla Autopilot](https://www.tesla.com/autopilot).  
+I also enjoyed working as machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot).  
 
 
