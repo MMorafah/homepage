@@ -15,7 +15,7 @@ subtitle: <p class="text-success"> <font size="2"> Machine Learning Researcher <
 
 profile:
   align: right
-  image: mahdi_photo.jpg
+  image: linkedin_photo.jpg
   address: >
     <p>Department of Electrical and Computer Engineering</p>
     <p>University of California San Diego</p>
