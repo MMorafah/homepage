@@ -41,6 +41,8 @@ I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2
 
 I also enjoyed working as machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot).  
 
-<span style="color: red;">**I am looking for internship positions for summer 2023. Please feel free to reach out**.</span>
+<span style="color: red;">**I will be joining Qualcomm AI as a ML Research Intern for summer 2023 working on Federated Learning.**.</span>
+<span style="color: red;">**I am open to collaborate on interesting project.**.</span>
+
 
 
