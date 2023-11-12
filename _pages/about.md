@@ -28,22 +28,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD Student in Electrical and Computer Engineering at University of California San Diego (UCSD), luckly being advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/).
+I am a PhD Candidate (third year) in Electrical and Computer Engineering at University of California San Diego (UCSD), luckly being advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/).
 
-I am broadly interested in Machine Learning and Optimization. My current research focus is on **Federated Learning**. Here are several federated learning themes that I am currently working on: 
+I am broadly interested in Machine Learning and Optimization. My current research focus is on **Federated Learning**, **Generative AI** and **Business**. Here are the research themes that I am currently working on: 
 
-- Statistical Heterogeneity (Non-I.I.D)
-- Personalization
-- Communication Effeciency 
-- Optimization
+- Large Scale Federated Learning Over Diverse Heterogeneous Devices
+- Efficient Training and Fine-tuning of Large Models in Federated Learning
+- Inference Speedup for Large Generative Models 
+- Effect of Generative AI in Business Market
 
 I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
 
-I also enjoyed working as machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot).  
+I also working as a machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI.  
 
-<span style="color: red;">**I will be joining Qualcomm AI as a ML Research Intern for summer 2023 working on Federated Learning.**.</span>
+<span style="color: red;">**I am looking for machine learning internship positions for summer 2023.**.</span>
 
-<span style="color: red;">**I am open to collaborate on interesting project.**.</span>
+<span style="color: red;">**I am open to collaborate on interesting project, please feel free to reach out.**.</span>
 
 
 
