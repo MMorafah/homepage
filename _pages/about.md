@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: <p class="text-success"> <font size="2"> Machine Learning Researcher <br/> 
-                              Federated Learning Enthusiast <br/> 
-                              Former Tesla Autopilot ML Research Intern </font> </p>
+                              Generative AI and Federated Learning Enthusiast <br/> 
+                              Former ML Research Intern at Tesla Autopilot and Qualcomm AI </font> </p>
 
 # <p> <font size="2"> <a href=https://www.ece.ucsd.edu/>
 #                               Electrical and Computer Engineering</a> <br/>
@@ -20,7 +20,7 @@ profile:
     <p>Department of Electrical and Computer Engineering</p>
     <p>University of California San Diego</p>
     <p>9500 Gilman Dr, La Jolla, CA 92093</p>
-      <p> <mark> <em> Email: mmorafah 'at' eng 'dot' ucsd 'dot' edu </em> </mark> </p>
+      <p> <mark> <em> Email: mmorafah 'at' ucsd 'dot' edu </em> </mark> </p>
 
 
 news: true  # includes a list of news items
