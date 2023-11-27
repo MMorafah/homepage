@@ -10,6 +10,8 @@
   arxiv={2209.10526},
   bibtex_show={true}, 
   code={https://github.com/MMorafah/PACFL},
+ abstract={Clustered federated learning (FL) has been shown to produce promising results by grouping clients into clusters. This is especially effective in scenarios where separate groups of clients have significant differences in the distributions of their local data. Existing clustered FL algorithms are essentially trying to group together clients with similar distributions so that clients in the same cluster can leverage each other's data to better perform federated learning. However, prior clustered FL algorithms attempt to learn these distribution similarities indirectly during training, which can be quite time consuming as many rounds of federated learning may be required until the formation of clusters is stabilized. In this paper, we propose a new approach to federated learning that directly aims to efficiently identify distribution similarities among clients by analyzing the principal angles between the client data subspaces. Each client applies a truncated singular value decomposition (SVD) step on its local data in a single-shot manner to derive a small set of principal vectors, which provides a signature that succinctly captures the main characteristics of the underlying distribution. This small set of principal vectors is provided to the server so that the server can directly identify distribution similarities among the clients to form clusters. This is achieved by comparing the similarities of the principal angles between the client data subspaces spanned by those principal vectors. The approach provides a simple, yet effective clustered FL framework that addresses a broad range of data heterogeneity issues beyond simpler forms of Non-IIDness like label skews. Our clustered FL approach also enables convergence guarantees for non-convex objectives. },
+
   selected={true},
   equal={true}
 }
@@ -24,6 +26,7 @@
   arxiv={2208.09754},
   bibtex_show={true}, 
   code={https://github.com/MMorafah/FLIS},
+  abstract={Classical federated learning approaches yield significant performance degradation in the presence of Non-IID data distributions of participants. When the distribution of each local dataset is highly different from the global one, the local objective of each client will be inconsistent with the global optima which incur a drift in the local updates. This phenomenon highly impacts the performance of clients. This is while the primary incentive for clients to participate in federated learning is to obtain better personalized models. To address the above-mentioned issue, we present a new algorithm, FLIS, which groups the clients population in clusters with jointly trainable data distributions by leveraging the inference similarity of clients' models. This framework captures settings where different groups of users have their own objectives (learning tasks) but by aggregating their data with others in the same cluster (same learning task) to perform more efficient and personalized federated learning. We present experimental results to demonstrate the benefits of FLIS over the state-of-the-art benchmarks on CIFAR-100/10, SVHN, and FMNIST datasets. }, 
   selected={true},
   equal={true}
 }
@@ -74,6 +77,7 @@
   year={2021},
   abbr={IEEE TCNS},
   arxiv={2110.10406}, 
+  abstract={Distributed Optimization is an increasingly important subject area with the rise of multi-agent control and optimization. We consider a decentralized stochastic optimization problem where the agents on a graph aim to asynchronously optimize a collective (additive) objective function consisting of agents' individual (possibly non-convex) local objective functions. Each agent only has access to a noisy estimate of the gradient of its own function (one component of the sum of objective functions). We proposed an asynchronous distributed algorithm for such a class of problems. The algorithm combines stochastic gradients with tracking in an asynchronous push-sum framework and obtain the standard sublinear convergence rate for general non-convex functions, matching the rate of centralized stochastic gradient descent SGD. Our experiments on a non-convex image classification task using convolutional neural network validate the convergence of our proposed algorithm across different number of nodes and graph connectivity percentages.}, 
   selected={true}
 }
 
@@ -86,6 +90,7 @@
   arxiv={2209.15595},
   bibtex_show={true}, 
   code={https://github.com/MMorafah/FL-SC-NIID},
+  abstract={     Though successful, federated learning presents new challenges for machine learning, especially when the issue of data heterogeneity, also known as Non-IID data, arises. To cope with the statistical heterogeneity, previous works incorporated a proximal term in local optimization or modified the model aggregation scheme at the server side or advocated clustered federated learning approaches where the central server groups agent population into clusters with jointly trainable data distributions to take the advantage of a certain level of personalization. While effective, they lack a deep elaboration on what kind of data heterogeneity and how the data heterogeneity impacts the accuracy performance of the participating clients. In contrast to many of the prior federated learning approaches, we demonstrate not only the issue of data heterogeneity in current setups is not necessarily a problem but also in fact it can be beneficial for the FL participants. Our observations are intuitive: (1) Dissimilar labels of clients (label skew) are not necessarily considered data heterogeneity, and (2) the principal angle between the agents' data subspaces spanned by their corresponding principal vectors of data is a better estimate of the data heterogeneity.},
   selected={true},
   equal={true}
 }
