@@ -34,7 +34,7 @@ I am broadly interested in Machine Learning and Optimization. My current researc
 
 - Large Scale Federated Learning Over Diverse Heterogeneous Devices
 - Efficient Training and Fine-tuning of Large Models in Federated Learning
-- Inference Speedup for Large Generative Models 
+- Fast Sampling for Diffusion Models 
 - Effect of Generative AI in Business Market
 
 I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
