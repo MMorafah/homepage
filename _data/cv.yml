@@ -14,16 +14,17 @@
     - title:  
       items: 
         - Machine Learning 
-        - Optimization
         - Federated Learning 
-        - Continual Learning
+        - Generative AI
+        - Large Language Model (LLM)
+        - Foundation Model
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Electrical and Computer Engineering
       institution: University of Califronia San Diego, US
-      year: 2021-2026
+      year: 2021-2025
       description:
         - <u>Major:</u> Machine Learning and Data Science
     - title: MS in Electrical and Computer Engineering
@@ -41,6 +42,11 @@
 - title: Experience
   type: time_table
   contents:
+  - title: Machine Learning Research Intern
+      institution: Qualcomm, US
+      year: Jan 2023-Sep 2023
+      description:
+        - Worked on Foundation Models in Federated Learning.
     - title: Machine Learning Research Intern
       institution: Tesla Autopilot, US
       year: Jan 2020-Jun 2020
@@ -65,7 +71,7 @@
   type: list
   contents:
     - <strong>Programming Languages:</strong> Python, C/C++, HTML, MATLAB
-    - <strong>Deep Learning Libraries:</strong> PyTorch, TensorFlow
+    - <strong>Deep Learning Libraries:</strong> PyTorch, TensorFlow, HuggingFace
     - <strong>Cloud Computing:</strong> AWS, Docker, Kubernetes
     - <strong>Other:</strong> Git, Bash, Vim, Nano
 
@@ -82,4 +88,4 @@
 - title: Extracurricular Activities 
   type: list
   contents:
-    - Basketball, Hiking, Travelling, Workout
+    - Workout, Basketball, Hiking, Travelling, Photography
