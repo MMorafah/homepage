@@ -33,17 +33,18 @@ I am a PhD Candidate (third year) in Electrical and Computer Engineering at Univ
 I am broadly interested in Machine Learning and Optimization. My current research focus is on **Federated Learning**, **Generative AI** and **Business**. Here are the research themes that I am currently working on: 
 
 - Large Scale Federated Learning Over Diverse Heterogeneous Devices
-- Efficient Training and Fine-tuning of Large Models in Federated Learning
-- Fast Sampling for Diffusion Models 
+- Efficient Training and Fine-tuning of Large Language Models in Federated Learning
+- Fast Sampling for Diffusion Models
+- Multi-Modal Foundation Models
 - Effect of Generative AI in Business Market
 
 I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
 
 I also working as a machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI.  
 
-<span style="color: red;">**I am looking for machine learning internship positions for summer 2023.**.</span>
+<span style="color: red;">**I am looking for machine learning internship positions for summer 2024.**</span>
 
-<span style="color: red;">**I am open to collaborate on interesting project, please feel free to reach out.**.</span>
+<span style="color: red;">**I am open to collaborate on interesting project, please feel free to reach out.**</span>
 
 
 
