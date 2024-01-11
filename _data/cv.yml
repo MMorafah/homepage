@@ -62,10 +62,12 @@
       institution: University of California San Diego, US
       year: 2019-Now
       description: 
-      - CSE 151B (Deep Learning) - Spring 2021
-      - ECE 109 (Probability & Statistics) - Fall 2020
-      - ECE 101 (Linear Systems Fundamentals) - Winter 2020
-      - ECE 161A (Introduction to Discrete-Time Signal Processing) - Fall 2019
+      - UCSD ECE 109 (Probability & Statistics) - Spring 2023
+      - UCSD ECE 251B (Digital Signal Processing I) - Winter 2023
+      - UCSD CSE 151B (Deep Learning) - Spring 2021
+      - UCSD ECE 109 (Probability & Statistics) - Fall 2020
+      - UCSD ECE 101 (Linear Systems Fundamentals) - Winter 2020
+      - UCSD ECE 161A (Introduction to Discrete-Time Signal Processing) - Fall 2019
 
 - title: Skills 
   type: list
@@ -78,6 +80,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Awarded AAAI 2023 Student Travel Scholarship
     - year: 2021
       items: 
         - Awarded Dean's Powell Focht Fellowship for 2021-2022 Academic Year ($54k)
