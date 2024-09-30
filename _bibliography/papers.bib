@@ -1,6 +1,22 @@
 ---
 ---
 
+@article{morafah2024diversedeviceheterogeneousfederated,
+      title={Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration}, 
+      author={Mahdi Morafah and Vyacheslav Kungurtsev and Hojin Chang and Chen Chen and Bill Lin},
+      year={2024},
+      eprint={2409.18461},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2409.18461},
+      code={https://github.com/MMorafah/TAKFL},
+      abbr={NeurIPS},
+      bibtex_show={true},
+      abstract={ Federated Learning (FL) has emerged as a promising paradigm for collaborative machine learning, while preserving user data privacy. Despite its potential, standard FL algorithms lack support for diverse heterogeneous device prototypes, which vary significantly in model and dataset sizes---from small IoT devices to large workstations. This limitation is only partially addressed by existing knowledge distillation (KD) techniques, which often fail to transfer knowledge effectively across a broad spectrum of device prototypes with varied capabilities. This failure primarily stems from two issues: the dilution of informative logits from more capable devices by those from less capable ones, and the use of a single integrated logits as the distillation target across all devices, which neglects their individual learning capacities and and the unique contributions of each device. To address these challenges, we introduce TAKFL, a novel KD-based framework that treats the knowledge transfer from each device prototype's ensemble as a separate task, independently distilling each to preserve its unique contributions and avoid dilution. TAKFL also incorporates a KD-based self-regularization technique to mitigate the issues related to the noisy and unsupervised ensemble distillation process. To integrate the separately distilled knowledge, we introduce an adaptive task arithmetic knowledge integration process, allowing each student model to customize the knowledge integration for optimal performance. Additionally, we present theoretical results demonstrating the effectiveness of task arithmetic in transferring knowledge across heterogeneous device prototypes with varying capacities. Comprehensive evaluations of our method across both computer vision (CV) and natural language processing (NLP) tasks demonstrate that TAKFL achieves state-of-the-art results in a variety of datasets and settings, significantly outperforming existing KD-based methods. }
+
+      selected={true}
+}
+
 @article{vahidian2022efficient,
   title={Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces},
   author={Vahidian*, Saeed and Morafah, Mahdi and Wang, Weijia and Kungurtsev, Vyacheslav and Chen, Chen and Shah, Mubarak and Lin, Bill},
