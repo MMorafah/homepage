@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p class="text-success"> <font size="2"> Machine Learning Researcher <br/> 
-                              Generative AI and Federated Learning Enthusiast <br/> 
+subtitle: <p class="text-success"> <font size="2"> AI and Business Researcher <br/> 
+                              Generative AI and Federated Learning <br/> 
                               Former ML Research Intern at Tesla Autopilot and Qualcomm AI </font> </p>
 
 # <p> <font size="2"> <a href=https://www.ece.ucsd.edu/>
@@ -28,21 +28,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate (third year) in Electrical and Computer Engineering at University of California San Diego (UCSD), luckly being advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/).
+I am a final-year (fifth year) PhD Candidate in Electrical and Computer Engineering at University of California San Diego (UCSD), being advised by [Prof. Bill Lin](http://cwcserv.ucsd.edu/~billlin/).
 
-I am broadly interested in Machine Learning and Optimization. My current research focus is on **Federated Learning**, **Generative AI** and **Business**. Here are the research themes that I am currently working on: 
+I am broadly interested in Machine Learning, Information Systems, Operation Management, and Economics. My current research focus is on **AI in Business** and **Generative AI**. I also actively publish in **Federated Learning** and **Machine Learning**. Here are the research themes that I am currently working on: 
 
-- Large Scale Federated Learning Over Diverse Heterogeneous Devices
-- Efficient Training and Fine-tuning of Large Language Models in Federated Learning
-- Fast Sampling for Diffusion Models
-- Multi-Modal Foundation Models
-- Effect of Generative AI in Business Market
+- Causal Learning and Inference in Business and Economics
+- Generative AI for Heterogeneous Treatment Effect Analysis
+- Optimal Ranking in Online Health Platforms
+- Device Heterogenous Federated Learning
+- Generative AI for Business Market and Branding
+- Decentralized Data Marketplace
 
 I previously received a M.S. in Electrical and Computer Engineering at UCSD in 2021, and a B.S. in Electrical Engineering at Tehran Polytechnique.
 
-I also working as a machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI.  
+I also worked as a machine learning research intern at [Tesla Autopilot](https://www.tesla.com/autopilot) and Qualcomm AI.  
 
-<span style="color: red;">**I am looking for machine learning internship positions for summer 2024.**</span>
+<span style="color: red;">**I am looking actively looking for post-doc positions in Business school and machine learning positions.**</span>
 
 <span style="color: red;">**I am open to collaborate on interesting project, please feel free to reach out.**</span>
 
